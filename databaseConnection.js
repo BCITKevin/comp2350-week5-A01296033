@@ -4,17 +4,17 @@ const is_render = process.env.IS_RENDER || false;
 
 const dbConfigRender = {
 	host: "sql.freedb.tech",
-	user: "freedb_2350_main.",
-	password: "WyjXprZdt9rdSP*",
-	database: "freedb_COMP2350_week4_A01342823",
+	user: "freedb_2350_main..",
+	password: "svW5VCbNE?gY*q3",
+	database: "freedb_comp2350-week5-A01296033",
 	multipleStatements: false
 };
 
 const dbConfigLocal = {
 	host: "localhost",
 	user: "root",
-	password: "abc123!",
-	database: "world",
+	password: "kevin02gusgh02!",
+	database: "Local instance 3306",
 	multipleStatements: false
 };
 
